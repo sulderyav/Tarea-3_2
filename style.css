@@ -1,0 +1,129 @@
+.first, .fourth
+{
+  color: #3369e8;
+}
+.second, .sixth
+{
+  color:#d50f25;
+}
+.third
+{
+  color: #eeb211;
+}
+.fifth
+{
+  color: #009939;
+}
+#header
+{
+background-color: white;  
+
+text-align: right;
+}
+.signin
+{
+  height: 35px;
+  width: 70px;
+  font-family: arial;
+  font-size: 15px;
+  font-weight: bold;
+  
+}
+h5
+{
+  display: inline;
+}
+#content
+{
+
+  height: 768px;
+  position:relative;
+  clear: both;
+}
+
+input
+{
+  width: 600px; 
+  height: 30px;
+  border-radius:px;
+  border: 1px solid blue;
+  font-size: 25px;
+  margin: auto;
+  cursor: pointer;
+}
+.search
+{
+  cursor: pointer;
+  height: 40px;
+  width: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  
+}
+.box
+{
+  
+  text-align: center;
+  position: relative;
+  margin-top: -85px;
+}
+.two
+{
+  text-align: center;
+  margin-top: 20px;
+  
+}
+.lucky
+{
+ height: 40px;
+  width: 140px;
+  background-color: #F2F2F2;
+  border: 1px solid white;
+  border-radius: 5px;
+  font-family: Arial;
+  cursor: pointer;
+  
+ }
+.lucky:hover
+{
+  border: 1px solid #D8D8D8;
+  font-weight: bold;
+}
+
+h1
+{
+  font-size: 10em;
+  font-family: Arial;
+}
+#logo
+{
+  text-align:center;
+  cursor:pointer;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer
+{
+   height: 50px;
+  background-color:#FAFAFA;
+  padding: 10px;
+}
+
+h6
+{
+  display: inline;
+}
+.alignleft
+{
+  float: left;
+}
+.alignright
+{
+  float: right;
+}
+a
+{
+  text-decoration: none;
+
+  
+}
